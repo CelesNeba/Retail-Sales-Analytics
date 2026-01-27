@@ -69,8 +69,8 @@ The Power BI dashboard includes:
 ---
 
 ## 📌 Author
-**Neba Celestine Che **  
- ** Data Analyst**  | Excel | Spreadsheet | Python | SQL | Power BI | Tableau
+**Neba Celestine Che**  
+ **Data Analyst**  | Excel | Spreadsheet | Python | SQL | Power BI | Tableau
 
 
 
