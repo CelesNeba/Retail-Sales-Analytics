@@ -49,4 +49,29 @@ Retail_Sales_Analytics/
 
 
 
+---
+
+## 📈 Power BI dashboard
+The Power BI dashboard includes:
+- Executive KPI overview
+- Cluster distribution
+- Monthly & weekly sales trends
+- RFM-based customer filtering
+- Customer drill-through analysis
+
+---
+
+## How to use
+1. Open the Jupyter notebook to see the full data analysis workflow
+2. Open the Power BI file to explore interactive dashboards
+3. Use slicers to filter by cluster, RFM scores, and time periods
+
+---
+
+## 📌 Author
+**Neba Celestine Che **  
+ ** Data Analyst**  | Excel | Spreadsheet | Python | SQL | Power BI | Tableau
+
+
+
 
