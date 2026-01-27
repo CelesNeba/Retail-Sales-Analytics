@@ -89,6 +89,8 @@ Based on the **RFM (Recency, Frequency, Monetary)** analysis and customer cluste
 **Neba Celestine Che**  
  **Data Analyst**  | Excel | Spreadsheet | Python | SQL | Power BI | Tableau
 
+ **Emaail:** celestineche123@gmail.com
+
 
 
 
