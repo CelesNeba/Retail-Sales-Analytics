@@ -73,7 +73,6 @@ The Power BI dashboard includes:
 </p>
 Here’s a screenshot of the Power BI dashboard built as part of this project:
 
-![Interactive Retail Sales Dashboard ...](https://raw.githubusercontent.com/…/Retail%20dashboard.PNG)
 
 *Interactive Retail Sales Dashboard screenshot*
 
