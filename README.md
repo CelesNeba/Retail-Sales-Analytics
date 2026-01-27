@@ -2,7 +2,7 @@
 Retail customer analytics using Recency, Frequency, and Monetary (RFM) segmentation, clustering, Python, and Power BI
 
 
-# Retail Customer Analytics & Segmentation Dashboard
+# Retail Customer analytics & segmentation dashboard
 
 ## 📌 Project Overview
 This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
@@ -68,7 +68,9 @@ The Power BI dashboard includes:
 
 
 ## 📊 Dashboard Preview
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CelesNeba/Retail-Sales-Analytics/main/Retail%20dashboard.PNG" alt="Interactive Retail Sales Dashboard showing segment distribution, RFM insights, and trend analysis for customer behavior and revenue" width="800px">
+</p>
 Here’s a screenshot of the Power BI dashboard built as part of this project:
 
 ![Interactive Retail Sales Dashboard ...](https://raw.githubusercontent.com/…/Retail%20dashboard.PNG)
