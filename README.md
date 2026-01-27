@@ -33,11 +33,17 @@ The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans 
 
 Retail_Sales_Analytics/
 │
+
 ├── data/
+
 │ └── customer_segments.csv
+
 ├── notebooks/
+
 │ └── retail_sales_analysis.ipynb
+
 ├── powerbi/
+
 │ └── Retail_Customer_Analytics.pbix
 └── README.md
 
