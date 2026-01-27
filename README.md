@@ -66,6 +66,13 @@ The Power BI dashboard includes:
 2. Open the Power BI file to explore interactive dashboards
 3. Use slicers to filter by cluster, RFM scores, and time periods
 
+
+
+
+### 📌 Business Recommendation
+
+Based on the **RFM (Recency, Frequency, Monetary)** analysis and customer clustering, the business should prioritize high-value customers who purchase frequently, spend more, and have bought recently by targeting them with personalized offers and loyalty programs to maximize customer lifetime value. At the same time, customers with low recency but moderate historical value should be re-engaged through timely and targeted campaigns to reduce churn. Low-value, infrequent customers should be managed using cost-efficient marketing approaches to avoid unnecessary discounting. Overall, leveraging the Power BI dashboard to continuously monitor these customer segments will support data-driven decision-making, leading to improved revenue, retention, and marketing efficiency.
+
 ---
 
 ## 📌 Author
