@@ -74,9 +74,10 @@ The Power BI dashboard includes:
 ---
 
 ## How to use
-1. Open the Jupyter notebook to see the full data analysis workflow
-2. Open the Power BI file to explore interactive dashboards
-3. Use slicers to filter by cluster, RFM scores, and time periods
+1. Open the Jupyter notebook file to see the full data analysis workflow
+2. Open the  Power BI file to explore interactive dashboards
+3. Open the data file to explore the dataset
+4. Use slicers to filter by cluster, RFM scores, and time periods
 
 
 ## 📊 Dashboard Preview
