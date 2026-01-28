@@ -4,7 +4,7 @@ Retail customer analytics using Recency, Frequency, and Monetary (RFM) segmentat
 
 # Retail Customer analytics & segmentation dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
 
 The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans clustering**, and an **interactive Power BI dashboard**.
