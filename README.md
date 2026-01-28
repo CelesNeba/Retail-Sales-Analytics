@@ -1,8 +1,19 @@
 # Retail-Sales-Analytics
 Retail customer analytics using Recency, Frequency, and Monetary (RFM) segmentation, clustering, Python, and Power BI
 
+## 🧩 Scenario Problem Statement
 
-# Retail Customer analytics & segmentation dashboard
+UK retailers face increasing competition and changing customer purchasing behavior, yet many struggle to turn transactional data into actionable insights. They are looking for ways to use the retail sales data to analyze customer behavior, segment customers using **RFM (Recency, Frequency, Monetary) analysis**, and identify key sales trends. They want the  resulting insights to be presented in an interactive **Power BI dashboard** to support data-driven decisions around customer retention, marketing strategy, and revenue growth.
+
+
+## Key questions to be answered
+
+- Who are the most valuable customers based on recency, purchase frequency, and monetary value?
+- Which customer segments contribute the most to overall revenue?
+- Are there customers at risk of churn due to long periods of inactivity?
+- How do sales and purchasing behavior vary by month and day of the week?
+- How can customer segmentation support more effective marketing and retention strategies?
+
 
 ##  Project Overview
 This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
