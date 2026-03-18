@@ -1,5 +1,9 @@
 # Retail-Sales-Analytics
-Retail customer analytics using Recency, Frequency, and Monetary (RFM) segmentation, clustering, Python, and Power BI
+
+##  Project Overview
+This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
+
+The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans clustering**, and an **interactive Power BI dashboard**.
 
 ## Problem statement
 
@@ -24,7 +28,6 @@ The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans 
 
 ##  Tools & technologies
 - Python (Pandas, NumPy, Scikit-learn)
-- Jupyter Notebook
 - Power BI Desktop
 - Data Visualization (Matplotlib, Seaborn)
 
