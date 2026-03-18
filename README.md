@@ -9,6 +9,14 @@ The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans 
 
 UK retailers face increasing competition and changing customer purchasing behavior, yet many struggle to turn transactional data into actionable insights. They are looking for ways to use the retail sales data to analyze customer behavior, segment customers using **RFM (Recency, Frequency, Monetary) analysis**, and identify key sales trends. They want the  resulting insights to be presented in an interactive **Power BI dashboard** to support data-driven decisions around customer retention, marketing strategy, and revenue growth.
 
+## Objective:
+
+To improve customer segmentation, enhance targeted marketing strategies, and support data-driven retail decision-making.
+
+
+## Goal:
+
+To analyze customer purchasing behavior using RFM segmentation and clustering techniques, and deliver actionable insights through an interactive dashboard.
 
 ## Key questions to be answered
 
@@ -19,12 +27,6 @@ UK retailers face increasing competition and changing customer purchasing behavi
 - How can customer segmentation support more effective marketing and retention strategies?
 
 
-##  Project Overview
-This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
-
-The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans clustering**, and an **interactive Power BI dashboard**.
-
----
 
 ##  Tools & technologies
 - Python (Pandas, NumPy, Scikit-learn)
