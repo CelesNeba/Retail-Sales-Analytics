@@ -5,7 +5,7 @@ This project analyzes retail customer transaction data to understand purchasing 
 
 The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans clustering**, and an **interactive Power BI dashboard**.
 
-##  The Business Problem
+##  The business problem
 Many retail business owners sit on thousands of sales transactions without knowing who their best customers are or who is about to stop buying. Without clear insights, businesses waste thousands of pounds on broad, untargeted marketing campaigns, miss out on easy repeat sales, and allow their highest-spending VIP customers to quietly slip away to competitors. 
 
 
