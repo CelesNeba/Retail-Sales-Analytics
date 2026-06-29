@@ -88,10 +88,12 @@ The Power BI dashboard includes:
 
 ### 📊 Dashboard Preview
 
-Here’s a screenshot of the interactive Power BI dashboard built as part of this project.
 
-![Interactive Retail Sales Dashboard](https://githubusercontent.com)
+Below is a screenshot of the interactive Power BI dashboard developed for this Retail Sales Analytics project. It uses a consistent corporate theme, clear visual hierarchy, and structured layout to present key business metrics and insights effectively:
 
+![Retail Sales Analytics Dashboard](https://github.com/CelesNeba/Retail-Sales-Analytics/blob/main/Dashboard_screenshot.png)
+
+> **Features:** Interactive filters, dynamic charts, and summary KPIs to explore sales performance, trends, and category‑level insights.
 
 
 
