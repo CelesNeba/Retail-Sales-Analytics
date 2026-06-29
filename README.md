@@ -85,14 +85,16 @@ The Power BI dashboard includes:
 4. Use slicers to filter by cluster, RFM scores, and time periods
 
 
-## 📊 Dashboard Preview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CelesNeba/Retail-Sales-Analytics/main/Retail%20dashboard.PNG" alt="Interactive Retail Sales Dashboard showing segment distribution, RFM insights, and trend analysis for customer behavior and revenue" width="800px">
-</p>
-Here’s a screenshot of the Power BI dashboard built as part of this project:
+
+### 📊 Dashboard Preview
+
+Here’s a screenshot of the interactive Power BI dashboard built as part of this project.
+
+![Interactive Retail Sales Dashboard](https://githubusercontent.com)
 
 
-*Interactive Retail Sales Dashboard screenshot*
+
+
 
 
 
