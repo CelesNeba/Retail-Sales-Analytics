@@ -5,13 +5,13 @@ This project analyzes retail customer transaction data to understand purchasing 
 
 The analysis uses **RFM (Recency, Frequency, Monetary) segmentation**, **KMeans clustering**, and an **interactive Power BI dashboard**.
 
-## Problem statement
+##  The Business Problem
+Many retail business owners sit on thousands of sales transactions without knowing who their best customers are or who is about to stop buying. Without clear insights, businesses waste thousands of pounds on broad, untargeted marketing campaigns, miss out on easy repeat sales, and allow their highest-spending VIP customers to quietly slip away to competitors. 
 
-UK retailers face increasing competition and changing customer purchasing behavior, yet many struggle to turn transactional data into actionable insights. They are looking for ways to use the retail sales data to analyze customer behavior, segment customers using **RFM (Recency, Frequency, Monetary) analysis**, and identify key sales trends. They want the  resulting insights to be presented in an interactive **Power BI dashboard** to support data-driven decisions around customer retention, marketing strategy, and revenue growth.
 
-## Objective:
+##  The business objective:
+Transform raw, messy transaction logs into an automated, interactive visual dashboard that helps retailers increase customer retention, boost repeat revenue, and stop wasting money on untargeted marketing. This system instantly organizes buyers into clear behavioral groups so business owners can make fast, profitable decisions.
 
-To improve customer segmentation, enhance targeted marketing strategies, and support data-driven retail decision-making.
 
 
 ## Goal:
